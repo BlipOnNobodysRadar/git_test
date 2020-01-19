@@ -1,0 +1,1 @@
+This is Blip’s first git project!
